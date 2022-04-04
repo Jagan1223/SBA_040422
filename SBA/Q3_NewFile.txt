@@ -1,0 +1,1 @@
+Program to Implement the filereader until the file ending character is “-1” and print all the data of the file.
